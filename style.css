@@ -305,7 +305,8 @@ footer{
     }
 
     .logo{
-        width: 100px;
+        width: 65px;
+        margin-top: 5px;
         margin-left: 40px;
     }
 
@@ -328,7 +329,7 @@ footer{
         width:97%;
         margin-top: 38px;
         margin-left: 5px;
-        height: 50px;
+        height: 35px;
     }
     .nav-search-gategory{
         display: none;
@@ -341,7 +342,7 @@ footer{
         
     }
     .nav-search-icon{
-        max-width: 50px;
+        max-width: 35px;
         padding: 8px;
         background: #ffd64f;
           border-radius: 0 4px 4px 0;
@@ -366,7 +367,7 @@ footer{
         margin: 0 15px;
     }
     .nav-cart-img{
-        width: 35px;
+        width: 30px;
         margin-top:-5px;
     }
 
@@ -380,7 +381,7 @@ footer{
         padding: 3px 20px;
         background: #131921;
         color: #fff;
-        font-size: 10px;
+        font-size: 12px;
     
     }
     .nav-country-mobile{
@@ -395,11 +396,14 @@ footer{
         display: flex;
         align-items: center;
         /* gap: 5px; */
-        padding: 3px 20px;
+        padding: 5px 20px;
         background: #232f3e;
         color: #fff;
-        font-size: 10px;
+        font-size: 8px;
     
+    }
+    .nav-country-mobile img{
+        height:  10px;
     }
    
     .nav-bottom{
@@ -408,7 +412,7 @@ footer{
     
 
     .nav-bottom-icon{
-        width: 25px;
+        width: 20px;
         position: absolute;
         margin-bottom: 245px;
         left: 10px;
