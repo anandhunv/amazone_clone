@@ -450,8 +450,8 @@ footer{
         margin-right: 0px; /* Remove the right margin */
         margin-left: 0px; /* Add negative margin to offset padding */
         margin-bottom: -92px;
-        /* max-width:  100%;
-        min-width:  100%; */
+        max-width:  100%;
+        min-width:  100%;
 
     }
     
@@ -476,7 +476,7 @@ footer{
     .box-col img {
         width: 100%; /* Set image width to 100% */
     }
-}
+
 
     
 
@@ -529,3 +529,4 @@ footer{
     .footer-img{
         width: 50px;
     }
+}
