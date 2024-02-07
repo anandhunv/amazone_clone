@@ -367,8 +367,8 @@ footer{
         margin: 0 15px;
     }
     .nav-cart-img{
-        width: 30px;
-        margin-top:-5px;
+        width: 28px;
+        margin-top:-1px;
     }
 
     .nav-cart h4{
@@ -377,7 +377,7 @@ footer{
     .nav-bottom-mobile{
         display: flex;
         align-items: center;
-        gap: 20px;
+        gap: 12px;
         padding: 3px 20px;
         background: #131921;
         color: #fff;
@@ -399,7 +399,8 @@ footer{
         padding: 5px 20px;
         background: #232f3e;
         color: #fff;
-        font-size: 8px;
+        font-size: 10px;
+        height: 22px;
     
     }
     .nav-country-mobile img{
